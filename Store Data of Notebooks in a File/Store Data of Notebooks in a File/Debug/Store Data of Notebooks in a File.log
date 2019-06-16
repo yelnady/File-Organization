@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Store Data of Notebooks in a File.cpp
+c:\users\yusuf\source\repos\store data of notebooks in a file\store data of notebooks in a file\store data of notebooks in a file.cpp(21): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\yusuf\source\repos\store data of notebooks in a file\store data of notebooks in a file\store data of notebooks in a file.cpp(68): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\yusuf\source\repos\store data of notebooks in a file\store data of notebooks in a file\store data of notebooks in a file.cpp(134): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Store Data of Notebooks in a File.vcxproj -> C:\Users\Yusuf\Source\Repos\Store Data of Notebooks in a File\Debug\Store Data of Notebooks in a File.exe

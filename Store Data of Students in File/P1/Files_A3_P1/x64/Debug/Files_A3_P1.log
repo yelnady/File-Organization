@@ -1,0 +1,6 @@
+﻿  Files_A3_P1.cpp
+f:\my apps\files\files_g11_g12_a3_20160299_20160327_20160359\files_a3_p1\files_a3_p1\files_a3_p1.cpp(92): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+f:\my apps\files\files_g11_g12_a3_20160299_20160327_20160359\files_a3_p1\files_a3_p1\files_a3_p1.cpp(95): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+f:\my apps\files\files_g11_g12_a3_20160299_20160327_20160359\files_a3_p1\files_a3_p1\files_a3_p1.cpp(107): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+f:\my apps\files\files_g11_g12_a3_20160299_20160327_20160359\files_a3_p1\files_a3_p1\files_a3_p1.cpp(114): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Files_A3_P1.vcxproj -> F:\My Apps\Files\Files_G11_G12_A3_20160299_20160327_20160359\Files_A3_P1\x64\Debug\Files_A3_P1.exe

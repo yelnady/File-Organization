@@ -1,0 +1,6 @@
+﻿  Files_A3_P1.cpp
+f:\fci  - 2nd year\files\assignments 2018\files_a3_p1\files_a3_p1\files_a3_p1.cpp(76): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+f:\fci  - 2nd year\files\assignments 2018\files_a3_p1\files_a3_p1\files_a3_p1.cpp(77): error C2082: redefinition of formal parameter 'id'
+f:\fci  - 2nd year\files\assignments 2018\files_a3_p1\files_a3_p1\files_a3_p1.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+f:\fci  - 2nd year\files\assignments 2018\files_a3_p1\files_a3_p1\files_a3_p1.cpp(91): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+f:\fci  - 2nd year\files\assignments 2018\files_a3_p1\files_a3_p1\files_a3_p1.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data

@@ -1,0 +1,3 @@
+﻿  Files_P2.cpp
+c:\users\yusuf\source\repos\files_p2\files_p2\files_p2.cpp(34): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Files_P2.vcxproj -> C:\Users\Yusuf\Source\Repos\Files_P2\Debug\Files_P2.exe

@@ -1,0 +1,3 @@
+﻿  Files_P2.cpp
+f:\my apps\files\files_g11_g12_a3_20160299_20160327_20160359\files_a3_p2\files_p2\files_p2.cpp(30): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Files_P2.vcxproj -> F:\My Apps\Files\Files_G11_G12_A3_20160299_20160327_20160359\Files_A3_P2\x64\Debug\Files_P2.exe

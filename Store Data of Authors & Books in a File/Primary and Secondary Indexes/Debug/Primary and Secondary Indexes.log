@@ -1,0 +1,13 @@
+﻿  Book.cpp
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(31): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\yusuf\source\repos\primary and secondary indexes\primary and secondary indexes\book.cpp(210): warning C4101: 'n': unreferenced local variable
+  Primary and Secondary Indexes.cpp
+  Generating Code...
+  Primary and Secondary Indexes.vcxproj -> C:\Users\Yusuf\Source\Repos\Primary and Secondary Indexes\Debug\Primary and Secondary Indexes.exe
